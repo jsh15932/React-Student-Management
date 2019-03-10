@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.2",
     "@stencil/core": "0.18.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
@@ -25,6 +26,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-dev-utils": "^7.0.3"
+    "react-dev-utils": "^7.0.5"
   }
 }
